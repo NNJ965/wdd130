@@ -55,7 +55,7 @@ aside img {
 }
 
 aside h2{
-    position: absolute;
+    position: var(--text-align);
     top: 100px;
     left: 100px;
 }
