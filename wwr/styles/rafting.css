@@ -1,7 +1,5 @@
 :root {
     --primary-color: #055a05;
-    --secondary-color: #f4a261;
-    --accent1-coor: #264653;
     --accent2-color: #e9c46a;
     --heading-font: "Times New Roman", "Geaogia", Sarif;
     --body-font: Arial, helvetica, Sans-serif;
@@ -10,7 +8,7 @@
 * {
     margin: 0;
     padding: 0;
-    box-sizing: boder-box;
+    box-sizing: border-box;
 }
 
 body {
@@ -39,7 +37,7 @@ nav, p, section, article {
 }
 
 .hero {
-    position: relative;
+    position: absolute;
 
 }
 
