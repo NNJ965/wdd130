@@ -60,6 +60,7 @@ h1 {
 
 article {
     position: absolute;
+    overflow: hidden;
 }
 
 .hero article img {
