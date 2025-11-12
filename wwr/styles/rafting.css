@@ -62,8 +62,7 @@ h1 {
 }
 
 article {
-    position: absolute;
-    overflow: hidden;
+    position: relative;
 }
 
 .hero article img {
