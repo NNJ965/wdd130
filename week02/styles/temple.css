@@ -34,19 +34,19 @@ h2 {
 img {
     border: 1px solid rgb(0 0 0 /10%);
     padding: 10px;
-    background-color: #fff;
+    background-color: silver;
     font-size: .4rem;
     margin: 10px 10px;
 }
 
 section p {
     margin: 10px;
-    background-color: skyblue;
+    background-color: silver;
 }
 
 ul {
     margin: 10px 20px;
-    background-color: skyblue;
+    background-color: silver;
 }
 
 footer {
